@@ -1,7 +1,15 @@
 to chose basic MCU
+  MCU perfect for price and performance is STM8 series
 to chose ESC hw
+  
 to select motor type
+  motor should be readytosky rs2212-920kv see below link
+  https://evelta.com/readytosky-rs2212-920kv-cw-brushless-motor/?srsltid=AfmBOorobZ8_9PhxnlHAoDZ5p4aLsK6NXjw-mYo2SZ7C22gCJaz_n5oB
 battery pack
+
+ESC required is Readytosky 40A 2-6S LIPO
+https://evelta.com/readytosky-40a-2-6s-esc-with-3-5mm-banana-connector/?srsltid=AfmBOor_n3gRKlwbOeT-LCIfmZF0rySBAYJWc0XmPP3ZWnnSBijHKUnT
+
 remote control
 
 Dont forget to read commment
